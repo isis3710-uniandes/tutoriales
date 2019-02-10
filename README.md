@@ -1,4 +1,4 @@
-### Tutorials in Spanish
+### Tutorials in spanish
 ISIS3710 - Web Development course  
 Universidad de los Andes, Colombia
 
