@@ -1,2 +1,3 @@
-# Tutoriales y talleres
-Curso Programación con Tecnologías Web (ISIS3710 - Universidad de los Andes), Colombia
+# Web Development Tutorials in Spanish
+Programación con Tecnologías Web (ISIS3710) course  
+Universidad de los Andes, Colombia
