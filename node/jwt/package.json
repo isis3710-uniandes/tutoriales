@@ -1,0 +1,15 @@
+{
+  "name": "jwt-example",
+  "version": "1.0.0",
+  "description": "This is a basic example of using JWT into Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian C. Peña",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
